@@ -1,6 +1,6 @@
 <?php
 $mollie = new \Mollie\Api\MollieApiClient();
-$mollie->setApiKey("");
+$mollie->setApiKey("test_dGNuACWnVCVnCfkhdqjsdWgkKQyjcV");
 $payment = $mollie->payments->create([
     "amount" => [
         "currency" => "EUR",
