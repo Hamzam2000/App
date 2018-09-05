@@ -1,0 +1,12 @@
+body {
+    background-color: darkorchid;
+}
+
+#blok{
+    position: absolute;
+    margin-left: 32%;
+    margin-top: 8%;
+    background-color: aliceblue;
+    padding: 12%;
+}
+
